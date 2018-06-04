@@ -6,7 +6,6 @@ Code for a tutorial in pyTorch given at Berlin School of Economic and Law (HWR)
 The Project uses python 2.7. It is best practice to use a clean python version by using a virtual enviroment.
 In order to install the needed libraries, I recommend also install pip
 1. Installing pip:
-    
 ``` $ sudo apt-get install python-pip ```
 2. Install virtualenv: 
 ``` $ pip install virtualenv ```
