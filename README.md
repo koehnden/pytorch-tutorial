@@ -26,3 +26,9 @@ In order to install the needed libraries, I recommend also install pip
 1. install [pytorch](https://pytorch.org/) by generating the suitable pip command, i.e. choose your OS and python version and the select CUDA None
 2. to install the remaining libraries run:
 ``` $ pip install -r requirements.txt ```
+
+##### 2.3 Install jupyter notebook 
+1. Install iPython kernel
+``` $ pip install ipykernel ```
+2. activate kernel on venv
+``` $ ipython kernel install --user --name=venv ```
